@@ -1,0 +1,15 @@
+Santiago,Alvarado,20454986-4
+Agustin,Vial,20995865-4
+Rafael,Izurieta,20333946-9
+Fernanda,Covarrubias,20234867-0
+Rosario,Guzman,20238519-8
+Sebastian,Godoy,20009575-8
+Tomas,Silva,20338955-9
+Pedro,Quijada,20321574-3
+Julia,Urzua,20231834-1
+Trinidad,Vicuña,20325744-9
+Dario,Hernandez,20998450-3
+Esperanza,Hernandez,20123456-3
+William,Prado,20548794-9
+Yasmin,Reed,20146927-4
+Marcela,Osandon,20001588-2

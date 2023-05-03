@@ -1,0 +1,4 @@
+Juan,Perez,10456339-2,FGTH98
+Daniela,Sanchez,13448795-K,FGRP30
+Hector,Gomez,8655038-1,FGNL77
+Hernan,Fuentes,12945385-7,FFTR12
